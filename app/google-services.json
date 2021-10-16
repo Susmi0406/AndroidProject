@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61422775854",
+    "firebase_url": "https://efishshop-73b88.firebaseio.com",
+    "project_id": "efishshop-73b88",
+    "storage_bucket": "efishshop-73b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61422775854:android:8b52a280bada568b8739bf",
+        "android_client_info": {
+          "package_name": "com.example.efishshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61422775854-bb6gi6oj04t5sp5qmj0kcou5l40647un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.efishshop",
+            "certificate_hash": "76c3667da2b0349a7fa0ccd50c6c11ac138297f5"
+          }
+        },
+        {
+          "client_id": "61422775854-vnjnlvthfif17o3vm9r0cc7nibtd2t54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5O-2F9EQ3FgpbvgLULG97yVXH2rqz36g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61422775854-vnjnlvthfif17o3vm9r0cc7nibtd2t54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
